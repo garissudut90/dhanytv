@@ -23,10 +23,10 @@ import sys
 INCLUDE_GROUPS = []
 
 # Grup yang dibuang. Contoh: EXCLUDE_GROUPS = ["Italy Channels", "Saudi Arabia"]
-EXCLUDE_GROUPS = []
+EXCLUDE_GROUPS = ["Italy Channels", "Saudi Arabia", "Brunei", "China", "Internet Radio", "India", "Korea", "Japan", "Russia", "Colombia", "Argentina", "Mexico", "Brazil", "Italy", "Spain", "France", "Germany", "Kenya", "South Africa", "Nigeria", "Egypt"]
 
 # Ganti nama grup. Contoh: RENAME_GROUPS = {"Indonesia Channels": "Indonesia"}
-RENAME_GROUPS = {}
+RENAME_GROUPS = {"Nasional": "Indonesia Channels"}
 
 # True = buang channel Widevine (biasanya tidak jalan di TiviMate).
 DROP_WIDEVINE = False
