@@ -1,4 +1,4 @@
-name: sync-and-build
+name: Sync-and-build
 on:
   schedule:
     - cron: "0 */6 * * *"
