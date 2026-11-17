@@ -37,7 +37,7 @@ DROP_DASH = False
 # Urutan grup. Grup yang disebut tampil paling atas sesuai urutan ini,
 # sisanya menyusul dengan urutan aslinya. Pakai nama grup SETELAH di-rename.
 # Contoh: GROUP_ORDER = ["Indonesia Channels", "TVRI", "Sports"]
-GROUP_ORDER = ["Indonesia Channel", "Sports", "Kids", "Indonesian Entertainment & Movies", "Entertainment", "News", "Knowledge and Documentary","Entertainment & LifeStyle"]
+GROUP_ORDER = ["Indonesia Channel", "Sports", "Kids", "Indonesian Entertainment & Movies", "Entertainment", "Entertainment & LifeStyle", "News", "Knowledge and Documentary"]
 
 # Urutan channel DI DALAM grup. Channel yang disebut tampil paling atas sesuai
 # urutan yang Anda tulis; channel lain di grup itu menyusul dengan urutan aslinya.
@@ -49,7 +49,9 @@ GROUP_ORDER = ["Indonesia Channel", "Sports", "Kids", "Indonesian Entertainment 
 # CHANNEL_ORDER = {
 #     "Indonesia Channels": ["RCTI", "MNCTV", "GTV", "iNews", "SCTV", "Indosiar", "Trans7"],
 # }
-CHANNEL_ORDER = {}
+CHANNEL_ORDER = {
+"Indonesia Channels": ["RCTI", "MNCTV", "GTV", "iNews", "SCTV", "Indosiar", "Trans7"]
+}
 
 # True = urutkan sisa grup (yang tidak ada di GROUP_ORDER) sesuai abjad.
 SORT_REMAINING_GROUPS = False
