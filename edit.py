@@ -26,7 +26,7 @@ INCLUDE_GROUPS = []
 EXCLUDE_GROUPS = ["Italy Channels", "Saudi Arabia", "Brunei", "China", "Internet Radio", "India", "Korea", "Japan", "Russia", "Colombia", "Argentina", "Mexico", "Brazil", "Italy", "Spain", "France", "Germany", "Kenya", "South Africa", "Nigeria", "Egypt"]
 
 # Ganti nama grup. Contoh: RENAME_GROUPS = {"Indonesia Channels": "Indonesia"}
-RENAME_GROUPS = {"Nasional": "Indonesia Channels"}
+RENAME_GROUPS = {"Nasional": "Indonesia Channels", "News Channel": "News"}
 
 # True = buang channel Widevine (biasanya tidak jalan di TiviMate).
 DROP_WIDEVINE = False
@@ -34,6 +34,28 @@ DROP_WIDEVINE = False
 # True = buang channel DASH/DRM sama sekali (sisakan HLS biasa).
 DROP_DASH = False
 
+# Urutan grup. Grup yang disebut tampil paling atas sesuai urutan ini,
+# sisanya menyusul dengan urutan aslinya. Pakai nama grup SETELAH di-rename.
+# Contoh: GROUP_ORDER = ["Indonesia Channels", "TVRI", "Sports"]
+GROUP_ORDER = ["Indonesia Channel", "Sports", "Kids", "Indonesian Entertainment & Movies", "Entertainment", "News", "Knowledge and Documentary","Entertainment & LifeStyle"]
+
+# Urutan channel DI DALAM grup. Channel yang disebut tampil paling atas sesuai
+# urutan yang Anda tulis; channel lain di grup itu menyusul dengan urutan aslinya.
+# Nama dicocokkan tanpa spasi/simbol/huruf besar-kecil dan tanpa akhiran "HD",
+# atau bisa juga memakai tvg-id (tanpa ".id"). Contoh: "RCTI" cocok dengan
+# "RCTI HD", "MNCTV" cocok dengan "MNC TV HD". Nama harus lengkap: "MNC" saja
+# tidak cocok. Kalau ada channel dobel dengan nama sama, semuanya ikut pindah.
+# Contoh:
+# CHANNEL_ORDER = {
+#     "Indonesia Channels": ["RCTI", "MNCTV", "GTV", "iNews", "SCTV", "Indosiar", "Trans7"],
+# }
+CHANNEL_ORDER = {}
+
+# True = urutkan sisa grup (yang tidak ada di GROUP_ORDER) sesuai abjad.
+SORT_REMAINING_GROUPS = False
+
+# True = urutkan sisa channel di tiap grup sesuai abjad.
+SORT_CHANNELS_AZ = False
 # =======================================================================
 
 GROUP_RE = re.compile(r'group-title="([^"]*)"')
