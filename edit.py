@@ -56,7 +56,7 @@ EXCLUDE_GROUPS = ["Italy Channels", "Saudi Arabia", "Brunei", "China", "Internet
 
 # Ganti nama grup (berlaku untuk semua sumber, termasuk tambahan).
 # Contoh: RENAME_GROUPS = {"Indonesia Channels": "Indonesia"}
-RENAME_GROUPS = {"Nasional": "Indonesia Channels", "News Channel": "News", "Sports Channels": "Sports"}
+RENAME_GROUPS = {"Nasional": "Indonesia Channels", "News Channel": "News", "Sports Channels": "Sports", "Sports Indo": "Sports"}
 
 # True = buang channel Widevine (biasanya tidak jalan di TiviMate).
 DROP_WIDEVINE = False
@@ -69,8 +69,8 @@ DROP_DASH = False
 # sisanya menyusul dengan urutan aslinya. Pakai nama grup SETELAH di-rename.
 # Contoh: GROUP_ORDER = ["Indonesia Channels", "TVRI", "Sports"]
 GROUP_ORDER = [
-    "Indonesia Channels", "Sports", "Kids", "Indonesian Entertainment & Movies",
-    "Entertainment", "Entertainment & LifeStyle", "News", "Knowledge and Documentary",
+    "Indonesia Channels", "Sports", "Kids", "Premium Movies", "Indonesian Entertainment & Movies",
+    "Entertainment", "Entertainment & LifeStyle", "News", "Knowledge and Documentary", "HBO Group"
 ]
 
 # Urutan channel DI DALAM grup. Channel yang disebut tampil paling atas sesuai
