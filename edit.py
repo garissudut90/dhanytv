@@ -40,7 +40,14 @@ import sys
 #         "put_in": "Indonesia Channels",
 #     },
 # ]
-EXTRA_SOURCES = []
+EXTRA_SOURCES = [
+    {
+        "file": "extra1.m3u",
+        "groups" : ["ShareExt@Relax", "SHAREEXT@ MPD || SPORTS"],
+        "channels": ["SPORTSTARS (V+)", "SPORTSTAR 2 (V+)", "SPORSTAR 3 (V+)", "SPORTSTARS 4 (V+)", "SOCCER CHANNEL (V+)", "SPOTV (V+)", "SPOTV 2 (V+)"],
+        "put_in": "Sports",
+    }
+]
 
 # True = kalau channel dari sumber tambahan punya URL yang sama persis dengan
 # yang sudah ada di sumber utama, lewati (tidak dobel).

@@ -19,6 +19,7 @@ jobs:
           git remote add upstream https://github.com/dhasap/dhanytv.git
           git fetch upstream
           git merge upstream/main -X theirs -m "sync upstream" || true
+          curl -fsSL "https://raw.githubusercontent.com/shareext-reborn/Shareext-UpdateFilesSports.m3u/refs/heads/main/Shareext%40playlist" -o extra1.m3u || echo "extra1 gagal diunduh"
           python3 edit.py dhanytv.m3u playlist.m3u
           git add -A
           git diff --staged --quiet || git commit -m "build"
