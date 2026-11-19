@@ -18,7 +18,7 @@ jobs:
       with:
         # server: ${{ secrets.FTP_SERVER }}
         server: 185.27.134.11
-        username: ${{ secrets.FTP_USERNAME }}
+        username: thsi_42800340
         password: ${{ secrets.FTP_PASSWORD }}
         port: 21
         security: loose # <--- TAMBAHKAN BARIS INI untuk mematikan enkripsi TLS ketat
