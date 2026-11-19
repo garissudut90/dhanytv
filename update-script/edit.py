@@ -42,7 +42,7 @@ import sys
 # ]
 EXTRA_SOURCES = [
     {
-        "file": "extra1.m3u",
+        "file": "update-script/extra1.m3u",
         "groups" : ["ShareExt@Relax"],
         "channels": ["SPORTSTARS (V+)", "SPORTSTAR 2 (V+)", "SPORSTAR 3 (V+)", "SPORTSTARS 4 (V+)", "SOCCER CHANNEL (V+)", "SPOTV (V+)", "SPOTV 2 (V+)"],
         "put_in": "Sports",
