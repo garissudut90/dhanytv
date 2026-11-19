@@ -43,7 +43,7 @@ import sys
 EXTRA_SOURCES = [
     {
         "file": "extra1.m3u",
-        "groups" : ["ShareExt@Relax", "SHAREEXT@ MPD || SPORTS"],
+        "groups" : ["ShareExt@Relax"],
         "channels": ["SPORTSTARS (V+)", "SPORTSTAR 2 (V+)", "SPORSTAR 3 (V+)", "SPORTSTARS 4 (V+)", "SOCCER CHANNEL (V+)", "SPOTV (V+)", "SPOTV 2 (V+)"],
         "put_in": "Sports",
     }
@@ -92,6 +92,7 @@ GROUP_ORDER = [
 # }
 CHANNEL_ORDER = {
     "Indonesia Channels": ["RCTI", "MNCTV", "GTV", "iNews", "SCTV", "Indosiar", "Trans7"],
+    "Sports": ["beIN Sports 1", "beIN Sports 2", "beIN Sports 3", "SpoTV", "Soccer Channel"],
 }
 
 # True = urutkan sisa grup (yang tidak ada di GROUP_ORDER) sesuai abjad.
