@@ -44,7 +44,7 @@ EXTRA_SOURCES = [
     {
         "file": "update-script/extra1.m3u",
         "groups" : ["ShareExt@Relax"],
-        "channels": ["SPORTSTARS (V+)", "SPORTSTAR 2 (V+)", "SPORSTAR 3 (V+)", "SPORTSTARS 4 (V+)", "SOCCER CHANNEL (V+)", "SPOTV (V+)", "SPOTV 2 (V+)"],
+        "channels": ["SPORTSTARS", "SPORTSTAR 2", "SPORSTAR 3", "SPORTSTARS 4", "SOCCER CHANNEL", "SPOTV", "SPOTV 2"],
         "put_in": "Sports",
     }
 ]
