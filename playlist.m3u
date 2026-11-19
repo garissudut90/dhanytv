@@ -513,6 +513,18 @@ http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157329
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157334
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png", TH: PPTV
 http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/157386
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EVmZjcL.jpeg" tvg-id="itzplay.id" group-title="Sports", SPOTV Prime+ (korea)
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime_replace_cookie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G34ESlN.jpeg" tvg-id="itzplay.id" group-title="Sports", SPOTV Prime (korea)
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime1_replace_cookie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZcLJYtL.jpeg" tvg-id="itzplay.id" group-title="Sports", SPOTV Prime 2 (korea)
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_prime2_replace_cookie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a8AlXOE.jpeg" tvg-id="itzplay.id" group-title="Sports", SPOTV (korea)
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_replace_cookie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/862RVQD.jpeg" tvg-id="itzplay.id" group-title="Sports", SPOTV 2 (korea)
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv2_replace_cookie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g12NBOV.jpeg" tvg-id="itzplay.id" group-title="Sports", SPOTV Golf+ (korea)
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36&Cookie=spotv_golf_health_replace_cookie
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/bJq8jMV3/j-sports-1-jp.png",J SPORTS 1
 https://ri.shinori.my.id/pxx.php?shk_cid=bs18
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/Gt2C4DCB/j-sports-2-jp.png",J SPORTS 2
@@ -626,6 +638,22 @@ http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146827
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146826
 #EXTINF:-1 tvg-logo="https://abestreaming.com/logo/fixtv/hubpremier3.png" group-title="Sports",UK: HUB SPORTS 3
 http://31.43.191.125:8080/vip9781785523997/cf645f65dca1/146825
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sports", HUB PREMIER 1 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032529&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sports", HUB PREMIER 2 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032528&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sports", HUB PREMIER 3 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032527&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sports", HUB PREMIER 4 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032526&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sports", HUB PREMIER 5 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032525&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sports", HUB PREMIER 6 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032524&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sports", HUB PREMIER 7 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032523&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/72FDWf6/SHAREEXT-HUB-PREMIER.jpg" group-title="Sports", HUB PREMIER 8 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032522&extension=ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/J7Z0hB2q/ezgif-84287ddb8ead5208.png",UFC_ (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=132120&uid=15301&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 1 (cloud)
@@ -642,6 +670,20 @@ http://tv.cloudcdn.me/live.ts?channelId=129132&uid=10223&deviceSn=84F4AB37DF6E6&
 http://tv.cloudcdn.me/live.ts?channelId=129133&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png", NOW SPORTS 7 (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=129134&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="Sports", NOW PREMIER 1 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032487&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="Sports", NOW PREMIER 2 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032486&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="Sports", NOW PREMIER 3 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032485&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="Sports", NOW PREMIER 4 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032484&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="Sports", NOW PREMIER 5 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032483&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="Sports", NOW PREMIER 6 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032482&extension=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vp0vks4Y/now-TV-Play-Shareext.png" group-title="Sports", NOW PREMIER 7 (online)
+http://atk97.online/play/live.php?mac=00:1A:79:B3:63:DA&stream=1032481&extension=ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-premier-league-2-my.png",ASTRO PREMIER LEAGUE 2 (cloud)
 http://tv.cloudcdn.me/live.ts?channelId=93740&uid=10223&deviceSn=84F4AB37DF6E6&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-grandstand-my.png",ASTRO GRANDSTAND (cloud)
@@ -2073,62 +2115,6 @@ https://pixeldrain.com/api/file/ci2qdnsA?download
 https://pixeldrain.com/api/file/ocwVztMT?download
 #EXTINF:-1 tvg-id="auto.trinil" group-title="VOD INDO",Trinil
 https://pixeldrain.com/api/file/gu6tTkv4?download
-#EXTINF:-1 tvg-id="7News.pk@SD" tvg-logo="https://i.imgur.com/PTl92P5.png" group-title="Pakistan",7 News (720p)
-https://sscsott.com/7news/live/index.m3u8
-#EXTINF:-1 tvg-id="8XM.pk@HD" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" group-title="Pakistan",8XM
-https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
-#EXTINF:-1 tvg-id="24NewsHD.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/24_News_HD_Logo.png" group-title="Pakistan",24 News HD
-https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
-#EXTINF:-1 tvg-id="92NewsHD.pk@SD" tvg-logo="https://i.imgur.com/eqKrL9S.png" group-title="Pakistan",92 News HD (720p)
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="365News.pk@SD" tvg-logo="https://i.imgur.com/8I6PWof.png" group-title="Pakistan",365 News
-https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
-#EXTINF:-1 tvg-id="AajEntertainment.pk@SD" tvg-logo="https://i.imgur.com/WK5Cqap.png" group-title="Pakistan",Aaj Entertainment (1080p)
-https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8
-#EXTINF:-1 tvg-id="4Music.fr@SD" tvg-logo="" group-title="Iran",4 Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="247BoxTV.ir@SD" tvg-logo="https://i.imgur.com/t5AUthL.png" group-title="Iran",247 Box TV
-https://hls.247box.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AbadanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" group-title="Iran",Abadan TV
-https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AflakTV.ir@SD" tvg-logo="https://i.imgur.com/LkLCHpf.png" group-title="Iran",Aflak TV
-https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AFNTV.ir@SD" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="Iran",AFN TV (720p)
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1 tvg-id="AfraFilm.ir@SD" tvg-logo="" group-title="Iran",Afra Film
-https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AftabTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png" group-title="Iran",Aftab TV
-https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
-#EXTINF:-1 tvg-id="5Cops.us@UK" tvg-logo="https://i.imgur.com/QFPRaXK.png" group-title="United Kingdom",5 Cops
-https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
-#EXTINF:-1 tvg-id="Aastha.in@UK" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="United Kingdom",Aastha UK (576p)
-https://aasthaott.akamaized.net/110923/smil:aasthauk.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AasthaInternational.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Aastha_international.png/960px-Aastha_international.png" group-title="United Kingdom",Aastha International (576p)
-https://aasthaott.akamaized.net/110923/smil:aasthausa.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AathavanTV.uk@SD" tvg-logo="https://i.imgur.com/LEVEhTH.png" group-title="United Kingdom",Aathavan TV (720p)
-https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd
-#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk@SD" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="United Kingdom",Afrobeat TV Entertainment (1080p)
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-id="AhlulbaytTV.uk@SD" tvg-logo="https://i.imgur.com/lNGJGjy.png" group-title="United Kingdom",Ahlulbayt TV (1080p)
-https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
-#EXTINF:-1 tvg-id="AkaalChannel.uk@SD" tvg-logo="https://i.imgur.com/K81vNbk.png" group-title="United Kingdom",Akaal Channel (396p) [Geo-blocked]
-https://cdn-globecast.akamaized.net/live/eds/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
-#EXTINF:-1 tvg-id="Andromeda.us@UK" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="United Kingdom",Andromeda UK
-https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="United Kingdom",Animal Planet (United Kingdom)
-http://37.49.224.5/stream/10/index.m3u8
-#EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us@UK" tvg-logo="https://i.imgur.com/dAO9llk.png" group-title="United Kingdom",Anthony Bourdain: Parts Unknown
-https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
-#EXTINF:-1 tvg-id="AuctionHunters.de@GB" tvg-logo="https://i.imgur.com/4SPOVN7.png" group-title="United Kingdom",Auction Hunters (Germany) GB
-https://jmp2.uk/plu-62ac50e92c48f900071444c9.m3u8
-#EXTINF:-1 tvg-id="Avatar.de@GB" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="United Kingdom",Avatar (Germany)
-https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
-#EXTINF:-1 tvg-id="BBCAlba.uk@SD" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="United Kingdom",BBC Alba
-https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="United Kingdom",BBC Four
-https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
-#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="United Kingdom",BBC Four/CBeebies (720p)
-http://193.46.58.239:8080/CbeebiesHD/index.m3u8
 #EXTINF:-1 tvg-id="3ABNEnglish.us@SD" tvg-logo="https://i.imgur.com/16DMxP4.png" group-title="United States",3ABN English (720p)
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNFrench.us@SD" tvg-logo="https://i.imgur.com/B5gsM7m.png" group-title="United States",3ABN French (720p)
