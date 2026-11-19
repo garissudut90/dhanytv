@@ -19,6 +19,8 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
+        port: 21
+        security: loose # <--- TAMBAHKAN BARIS INI untuk mematikan enkripsi TLS ketat
         # server-dir: ./ 
         # (Biarkan ./ jika akun FTP Anda sudah langsung mengarah ke public_html)
         server-dir: ./htdocs/
