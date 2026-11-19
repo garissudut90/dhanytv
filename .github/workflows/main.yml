@@ -21,3 +21,4 @@ jobs:
         password: ${{ secrets.FTP_PASSWORD }}
         # server-dir: ./ 
         # (Biarkan ./ jika akun FTP Anda sudah langsung mengarah ke public_html)
+        server-dir: ./htdocs/
