@@ -28,11 +28,11 @@ jobs:
       - name: Ambil sumber playlist
         run: |
           curl -fsSL https://raw.githubusercontent.com/dhasap/dhanytv/main/dhanytv.m3u -o dhanytv.m3u
-          curl -fsSL "https://raw.githubusercontent.com/garissudut90/Shareext-LokalHiburan.m3u/refs/heads/main/Shareext%40LokalHiburan.m3u" -o extra1.m3u || echo "extra1 gagal diunduh, dilewati"
+          curl -fsSL "https://raw.githubusercontent.com/garissudut90/Shareext-LokalHiburan.m3u/refs/heads/main/Shareext%40LokalHiburan.m3u" -o update-script/extra1.m3u || echo "extra1 gagal diunduh, dilewati"
 
       - name: Build playlist
         run: |
-          python3 edit.py dhanytv.m3u playlist.m3u
+          python3 update-script/edit.py dhanytv.m3u playlist.m3u
           test "$(grep -c '^#EXTINF' playlist.m3u)" -gt 100
 
       - name: Siapkan folder deploy (hanya playlist.m3u)
