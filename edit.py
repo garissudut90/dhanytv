@@ -35,7 +35,7 @@ import sys
 # EXTRA_SOURCES = [
 #     {
 #         "file": "extra1.m3u",
-#         "groups": ["SHAREEXT@TEVE_DAERAH"],
+#         "groups" : ["ShareExt@Relax", "SHAREEXT@ MPD || SPORTS"],
 #         "channels": ["TV9 NUSANTARA", "JITV HD", "DaaiTV_HD"],
 #         "put_in": "Indonesia Channels",
 #     },
@@ -59,7 +59,7 @@ SKIP_DUPLICATE_URLS = True
 INCLUDE_GROUPS = []
 
 # Grup yang dibuang. Contoh: EXCLUDE_GROUPS = ["Italy Channels", "Saudi Arabia"]
-EXCLUDE_GROUPS = ["Italy Channels", "Saudi Arabia", "Brunei", "China", "Internet Radio", "India", "Korea", "Japan", "Russia", "Colombia", "Argentina", "Mexico", "Brazil", "Italy", "Spain", "France", "Germany", "Kenya", "South Africa", "Nigeria", "Egypt", "Thailand", "Philippines", "Vietnam", "Turkey", "Bangladesh", "UAE & Arab", "International"]
+EXCLUDE_GROUPS = ["Italy Channels", "Saudi Arabia", "Brunei", "China", "Internet Radio", "India", "Korea", "Japan", "Russia", "Colombia", "Argentina", "Mexico", "Brazil", "Italy", "Spain", "France", "Germany", "Kenya", "South Africa", "Nigeria", "Egypt", "Thailand", "Philippines", "Vietnam", "Turkey", "Bangladesh", "UAE & Arab", "International", "Iran", "Pakistan", "United Kingdom"]
 
 # Ganti nama grup (berlaku untuk semua sumber, termasuk tambahan).
 # Contoh: RENAME_GROUPS = {"Indonesia Channels": "Indonesia"}
