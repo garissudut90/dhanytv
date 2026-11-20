@@ -43,8 +43,8 @@ import sys
 EXTRA_SOURCES = [
     {
         "file": "update-script/extra1.m3u",
-        "groups" : ["ShareExt@Relax"],
-        "channels": ["SPORTSTARS", "SPORTSTAR 2", "SPORSTAR 3", "SPORTSTARS 4", "SOCCER CHANNEL", "SPOTV", "SPOTV 2"],
+        "groups" : ["ShareExt@Relax", "SHAREEXT@ MPD || SPORTS"],
+        "channels": [],
         "put_in": "Sports",
     }
 ]
@@ -91,7 +91,7 @@ GROUP_ORDER = [
 #     "Indonesia Channels": ["RCTI", "MNCTV", "GTV", "iNews", "SCTV", "Indosiar", "Trans7"],
 # }
 CHANNEL_ORDER = {
-    "Indonesia Channels": ["RCTI", "MNCTV", "GTV", "iNews", "SCTV", "Indosiar", "Trans7"],
+    "Indonesia Channels": ["RCTI", "MNCTV", "GTV", "iNews", "SCTV", "Indosiar", "Trans7", "Trans", "ANTV", "METRO", "TVONE"],
     "Sports": ["beIN Sports 1", "beIN Sports 2", "beIN Sports 3", "SpoTV", "Soccer Channel"],
 }
 
