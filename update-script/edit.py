@@ -43,7 +43,7 @@ import sys
 EXTRA_SOURCES = [
     {
         "file": "update-script/extra1.m3u",
-        "groups" : ["ShareExt@Relax", "SHAREEXT@ MPD || SPORTS"],
+        "groups" : ["ShareExt@Relax"],
         "channels": [],
         "put_in": "Sports",
     }
